@@ -33,7 +33,6 @@ body {
 }
 
 article {
-    display: flex;
     flex-direction: column;
     width: 51%;
     max-width: 700px;
