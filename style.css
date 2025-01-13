@@ -31,12 +31,12 @@ body {
 article {
     flex-direction: column;
     width: 45%;
-    height: 85vh;
+    min-height: 84vh;
     max-width: 600px;
-    margin-top: 100px;
+    margin-top: 60px;
     background-color: var(--article-bg-color);
     border-radius: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 
 header {
