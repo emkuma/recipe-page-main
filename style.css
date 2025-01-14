@@ -26,13 +26,12 @@ body {
     background-color: var(--desktop-bg-color);
     font-family: "Young Serif";
     font-weight: 100;
-    height: auto;
 }
 
 article {
     flex-direction: column;
-    width: 48%;
-    max-width: 736px;
+    width: 50%;
+    max-width: 732px;
     min-height: 100vh;
     background-color: var(--article-bg-color);
     border-radius: 20px;
@@ -48,7 +47,7 @@ header {
 }
 
 .header__image {
-    width: 90%;
+    width: 89%;
     max-width: 656px;
     /* margin-left: 30px; */
     border-radius: 15px;
@@ -61,8 +60,7 @@ header {
 }
 
 .header__content {
-    width: 90%;
-    /* margin-left: 30px; */
+    width: 92%;
     font-family: "Inter", sans-serif;
     font-size: .82rem;
     letter-spacing: .7px;
